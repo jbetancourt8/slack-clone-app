@@ -16,7 +16,7 @@ Visit: https://slack-clone-app-6da0b.web.app/room/7eniEFMviUhEEWFRQ5ag
 
 ## Screenshots
 
-![Screenshot](./screenshots/ScreenShot.png)
+![Screenshot](./screenshot/ScreenShot.png)
 
 ## Authors and acknowledgment
 
