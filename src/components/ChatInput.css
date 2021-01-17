@@ -3,20 +3,24 @@
 }
 
 .channelInput > form {
-  position: relative;
   display: flex;
   justify-content: center;
+  position: fixed;
 }
 
 .chatInput > form > input {
-  position: fixed;
   bottom: 30px;
   width: 60%;
   border: 1px solid gray;
   border-radius: 3px;
   padding: 20px;
+  border: #49274b solid;
+  border-radius: 10px;
 }
 
 .chatInput > form > button {
-  display: none !important;
+  margin-left: 10px;
+  padding: 20px;
+  border: #49274b solid;
+  border-radius: 10px;
 }

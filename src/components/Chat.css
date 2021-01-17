@@ -33,3 +33,11 @@
   margin-right: 5px !important;
   font-size: 16px;
 }
+
+.chat_message {
+  flex: 1;
+}
+
+.chat_input {
+  flex: 1;
+}

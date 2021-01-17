@@ -2,13 +2,17 @@
 
 This is a Slack clone application built with ReactJS, Material UI, and Firebase
 
-## Installation
+## How to use
 
 Clone the repo and use npm to install dependencies.
 
 ```bash
 npm install
 ```
+
+OR
+
+Visit: https://slack-clone-app-6da0b.web.app/room/7eniEFMviUhEEWFRQ5ag
 
 ## Screenshots
 
